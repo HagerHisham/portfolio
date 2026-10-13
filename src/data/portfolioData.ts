@@ -15,7 +15,7 @@ export const personalInfo: PersonalInfo = {
   faculty: "Faculty of Computers and Artificial Intelligence",
   gpa: 3.45,
   maxGpa: 4.0,
-  graduationYear: 2026,
+  graduationYear: 2027,
   introduction:
     "I'm a Computer Science student interested in Artificial Intelligence, Machine Learning, and Software Development. I enjoy learning new technologies, solving problems, and building practical solutions. I'm continuously developing my technical skills through training programs, projects, and collaborative experiences.",
   location: "Cairo, Egypt",
@@ -23,7 +23,7 @@ export const personalInfo: PersonalInfo = {
   email: "hager.abdellah.dev@example.com",
   linkedin: "https://www.linkedin.com/in/hagar-abdellah/",
   // EDIT HERE: Replace with your actual GitHub username / URL
-  github: "https://github.com/HagerAbdellah",
+  github: "https://github.com/HagerHesham",
   resumeUrl: "#contact", // or path to your /resume.pdf
   statusMessage: "Open for 2026/2027 internships, junior AI/software roles, and collaborative projects."
 }
