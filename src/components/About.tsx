@@ -23,7 +23,7 @@ export const About: React.FC = () => {
               <strong className="text-charcoal-900 font-semibold">
                 Faculty of Computers and Artificial Intelligence, Helwan University
               </strong>{' '}
-              (graduating in 2026 with a current cumulative GPA of{' '}
+              (graduating in 2027 with a current cumulative GPA of{' '}
               <strong className="text-forest-800 font-semibold font-mono">3.45 / 4.0</strong>). My academic path is centered around Artificial Intelligence, Machine Learning, and Software Development.
             </p>
 
