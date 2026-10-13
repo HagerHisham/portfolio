@@ -9,7 +9,7 @@ import { PersonalInfo, SkillCategory, Project, ExperienceItem, ServiceItem } fro
  */
 
 export const personalInfo: PersonalInfo = {
-  name: "Hager Abdellah",
+  name: "Hager Hesham",
   title: "Computer Science Student | AI & Software Developer",
   university: "Helwan University",
   faculty: "Faculty of Computers and Artificial Intelligence",
